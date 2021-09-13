@@ -16,7 +16,7 @@
 
 <resultMap id="imgResult" type="imageVO">
 	<result property="imageFileNO" column="imageFileNO" />
-	<result property="articleO" column="articleNO" />
+	<result property="articleNO" column="articleNO" />
 	<result property="imageFileName" column="imageFileName" />
 </resultMap>
 
